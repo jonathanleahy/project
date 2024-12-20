@@ -1,4 +1,4 @@
-module jobscheduler
+module github.com/jonathanleahy/project/jobscheduler
 
 go 1.21
 
