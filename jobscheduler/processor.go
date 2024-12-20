@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"jobscheduler/internal/executer"
+	"github.com/jonathanleahy/project/jobscheduler/internal/executer"
 )
 
 // ProcessorConfig contains configuration for a job processor

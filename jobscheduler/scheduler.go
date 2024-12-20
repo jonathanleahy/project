@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"jobscheduler/internal/executer"
+	"github.com/jonathanleahy/project/jobscheduler/internal/executer"
 )
 
 // Scheduler manages the job scheduling and processing

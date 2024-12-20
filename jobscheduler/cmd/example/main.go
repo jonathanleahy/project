@@ -9,7 +9,7 @@ import (
 	"syscall"
 	"time"
 
-	"jobscheduler"
+	"github.com/jonathanleahy/project/jobscheduler"
 )
 
 var (
