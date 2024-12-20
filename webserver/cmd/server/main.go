@@ -11,10 +11,10 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/yourusername/project/jobscheduler"
-	"github.com/yourusername/project/webserver/config"
-	"github.com/yourusername/project/webserver/internal/handlers"
-	"github.com/yourusername/project/webserver/internal/middleware"
+	"github.com/jonathanleahy/project/jobscheduler"
+	"github.com/jonathanleahy/project/webserver/config"
+	"github.com/jonathanleahy/project/webserver/internal/handlers"
+	"github.com/jonathanleahy/project/webserver/internal/middleware"
 )
 
 var (

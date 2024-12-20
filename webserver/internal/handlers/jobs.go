@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/yourusername/project/jobscheduler"
-	"github.com/yourusername/project/webserver/internal/api"
+	"github.com/jonathanleahy/project/jobscheduler"
+	"github.com/jonathanleahy/project/webserver/internal/api"
 )
 
 // JobsHandler handles job-related requests

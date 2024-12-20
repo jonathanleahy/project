@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/yourusername/project/jobscheduler"
-	"github.com/yourusername/project/webserver/internal/api"
+	"github.com/jonathanleahy/project/jobscheduler"
+	"github.com/jonathanleahy/project/webserver/internal/api"
 )
 
 // StatsHandler handles statistics-related requests
